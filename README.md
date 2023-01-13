@@ -1,3 +1,5 @@
+HTTP のリンクの入力が可能な Company Communicator の fork になります。
+
 # Company Communicator App Template
 
 [Architecture](https://github.com/OfficeDev/microsoft-teams-company-communicator-app/wiki/Solution-overview) | [Documentation](https://github.com/OfficeDev/microsoft-teams-company-communicator-app/wiki) | [Deployment guide powershell](https://github.com/OfficeDev/microsoft-teams-company-communicator-app/wiki/Deployment-guide-powershell)  |[Deployment guide](https://github.com/OfficeDev/microsoft-teams-company-communicator-app/wiki/Deployment-guide) | [User manual](https://github.com/OfficeDev/microsoft-teams-apps-company-communicator/wiki/User-manual) | 
